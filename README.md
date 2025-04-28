@@ -1,6 +1,6 @@
 # Hi there, I'm Hassan 👋
 
-<h3>AI Learning Engineer | Full Stack Developer</h3>
+<h3>Machine Learing Engineer |Data Scintic| Full Stack Developer</h3>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!" alt="Welcome to my GitHub!" />
 
