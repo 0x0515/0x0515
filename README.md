@@ -1,6 +1,6 @@
 # Hi there, I'm Hassan 👋
 
-<h3> AI & Machine Learing Engineer |Data Scintic| Full Stack Developer</h3>
+<h3> AI & Machine Learing Engineer |Data Scintic| Backed Developer</h3>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!" alt="Welcome to my GitHub!" />
 
@@ -10,9 +10,9 @@
 
 🌱 I’m currently learning:  
 - 🤖 Deep Learning and Transformer Architectures  
-- 🌐 Advanced Full-Stack Development with Next.js and Node.js  
+- 🌐 Advanced Full-Stack Development with FAST API and Node.js  
 - ☁️ Docker for ML and Web App Deployment  
-- 🗃️ Efficient Database Design with PostgreSQL and MongoDB  
+- 🗃️ Efficient Database Design with Star-rocks & Clickhouse and MongoDB  
 
 💼 Currently building:  
 ---
