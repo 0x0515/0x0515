@@ -31,21 +31,12 @@
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-   <img src="https://img.shields.io/badge/Fastapi-181717?style=for-the-badge&logo=Fastapi&logoColor=white"/>
+   <img src="https://img.shields.io/badge/Fastapi-3776AB?style=for-the-badge&logo=Fastapi&logoColor=blue"/>
 </p>
 
----
 
-### 📈 GitHub Stats
-![Hassan's GitHub stats](https://github-readme-stats.vercel.app/api?username=hassan123&show_icons=true&theme=radical)
-
----
 
 ## ✨ Featured Projects
-- 🚀 [Awesome AI Project](https://github.com/yourproject)
-- 📚 [Learning Java with Fun](https://github.com/yourproject)
-
----
-
-_“Creativity is intelligence having fun.” — Albert Einstein_
-
+-
+-
+-
